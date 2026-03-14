@@ -16,7 +16,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R:
+   R:porque el desarrollo de software requiere seguir una serie de pasos como analisis,diseño,codificacion, prueba y finalmente la puesta en marcha, sin estos paso probablemente el resultado no cumplir con las expectativas del cliente y resultar en perdida de tiempo y dinero,
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
