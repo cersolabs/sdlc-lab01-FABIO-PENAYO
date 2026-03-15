@@ -20,17 +20,18 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R: que un desarrollo sea dirigido por un plan significa que primero comenzara analizando las necesidades del cliente, y en base a estas, elaborar un plan detallado para desarrollar el software. este plan sera el encargado de dirigir el desarrollo en una serie de etapas sucesivas hasta su funcionamiento.
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: las ventajas son: presupuestar costos, estimar el tiempo de desarrollo, el desarrollo se vuelve mas predecible con etapas secuenciales previamente definididas.
+   
 
-4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
+5. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: las criticas que se hacen son que rara vez los proyectos de software son tan lineales, hay poca interaccion con el cliente, los errores u omisiones de una etapa se arrastrar con facilidad a etapas posteriores, los requerimientos de desarrollo deben obtenerse al comienzo sin posibilidad de cambio y es dificil aplicarlo en proyectos grandes.
 
-5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
+6. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
    R: 
 
