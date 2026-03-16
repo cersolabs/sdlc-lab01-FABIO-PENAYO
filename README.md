@@ -33,7 +33,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 6. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: las organizaciones combinan metodologias agiles y dirigidos por un plan por que ya el modelo dirigido por un plan tiene una base y usan el modelo agile para mejorarlo. en la practica las organizaciones usan la metodologia dirigida para un plan en las etapas de analisis y diseño ya para tener una base solida y bien definida y luego en las etapas de codificacion y pruebas utilizan el modelo agile para entregar resultados pequeños y adaptsarse a los cambios que surjan hasta llegar al proyecto final. 
 
 
 ### Actividad 2
@@ -67,14 +67,19 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Ingeniería de requerimientos
 ---
 R:
+- Ingeniería de requerimientos
+- Diseño
+- Codificación
+- Prueba
+- Despliegue
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: los problemas que pueden surgir si hay un error en una etapa inicial dependera de su gravedad.si es minimo, como un nombre o logo mal definido en la etapa de ANALISIS que se puede corregir facilmente. pero si problema afecta al diseño los programadores desarrollaran un codigo sobre un diseño mal hecho o no del todo. esto puede provocar fallos en el sistema, mayores costos, retrasos y hasta en los casos mas extremo el fracaso del proyecto y perdida de un cliente.
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: este modelo puede ser un problema cuando los requerimientos cambian por al ser un modelo tan rigido los cambios son costosos y retrasan el proyecto mas tiempo. por que se requiere que se vuelva a realizar un analisis, un diseño, devuelta la codificacion lo que puede provocar que al final el proyecto no cumpla con los requisitos del cliente.
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
