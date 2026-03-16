@@ -40,8 +40,8 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      | En esta etapa los analistas llevan a cabo un relevamiento exhaustivo de la organizacion para identificar sus necesidades y los problemas que deben abordarse mediante un sistema informatico. el resultado es la elaboracion de un documento detallado que, siguiendo reglas y convenciones especificas, capture todos los requerimientos de los usuarios.  |
-| Diseño                        |             |
+| Análisis                      | En esta etapa los analistas llevan a cabo un relevamiento exhaustivo de la organizacion para identificar sus necesidades y los problemas que deben abordarse mediante un sistema informatico. el resultado es la elaboracion de un documento detallado que, siguiendo reglas y convenciones especificas, capture todos los requerimientos de los usuarios. asimismo, se deben identificar y tener en cuenta las restricciones y limitaciones pertinentes.  |
+| Diseño                        |  en esta etapa se elabora el diseño de una solucion informatica que aborde los problemas identificados en la etapa anterior y respetando las limitaciones. se genera un documento detallado y tecnico que permita a los desarrolladores construir un codigo de manera efectiva.           |
 | Codificación                  |             |
 | Prueba                        |             |
 | Puesta en marcha / Despliegue |             |
