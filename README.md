@@ -40,23 +40,23 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      | en esta etapa se genera la idea, de ver que va ser ese sistema. en esta etapa el equipo de analisis se reune con el cliente y empiezan a ver los detalles del sistema, que quieren que haga el sistema, que alcances y que limitaciones tendra, y se crea un presupuesto para ello. de todo esto se genera un documento que capturetodos los requerimientos del usuario y sus limitaciones.            |
+| Análisis                      | en esta etapa se genera la idea, de ver que va ser ese sistema. en esta etapa el equipo de analisis se reune con el cliente y empiezan a ver los detalles del sistema, que quieren que haga el sistema, que alcances y que limitaciones tendra, y se crea un presupuesto para ello. de todo esto se genera un documento que capture todos los requerimientos del usuario y sus limitaciones.            |
 | Diseño                        |  en esta etapa se elabora el diseño de una solucion informatica que aborde los problemas identificados en la etapa anterior y respetando las limitaciones. se genera un documento detallado y tecnico que permita a los desarrolladores construir un codigo de manera efectiva.           |
 | Codificación                  | en esta etapa son los programadores son los encargados de desarollar el codigo segun las especificaciones del diseño, donde construyen el software empleando un lenguaje de programacion determinado.            |
 | Prueba                        | en esta etapa de prueba se encargara de indentificar los posibles errores en el sistema antes de su puesta en uso, con el objetivo de reportarlos y corregirlos            |
-| Puesta en marcha / Despliegue |             |
+| Puesta en marcha / Despliegue | en esta etapa finalmente se instala el softare en la computadora del cliete y se capacita a los usuariospara que puedan utilizar eficientemente el nuevo software.            |
 
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: los requerimientos del sistema se obtienen en la Etapa de ANALISIS.
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: El programa se construye en la Etapa de CODIFICACION.
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R: El objetivo de principal de las pruebas es encontrar posibles errores en el sistema y reportarlos para que sean corregidos.
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
