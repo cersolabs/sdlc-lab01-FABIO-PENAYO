@@ -42,8 +42,8 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 | ----------------------------- | ----------- |
 | Análisis                      | en esta etapa se genera la idea, de ver que va ser ese sistema. en esta etapa el equipo de analisis se reune con el cliente y empiezan a ver los detalles del sistema, que quieren que haga el sistema, que alcances y que limitaciones tendra, y se crea un presupuesto para ello. de todo esto se genera un documento que capturetodos los requerimientos del usuario y sus limitaciones.            |
 | Diseño                        |  en esta etapa se elabora el diseño de una solucion informatica que aborde los problemas identificados en la etapa anterior y respetando las limitaciones. se genera un documento detallado y tecnico que permita a los desarrolladores construir un codigo de manera efectiva.           |
-| Codificación                  |             |
-| Prueba                        |             |
+| Codificación                  | en esta etapa son los programadores son los encargados de desarollar el codigo segun las especificaciones del diseño, donde construyen el software empleando un lenguaje de programacion determinado.            |
+| Prueba                        | la etapa de prueba se encargara de indentificar los posibles errores en el sistema antes de su puesta en uso, con el objetivo de reportarlos y corregirlos            |
 | Puesta en marcha / Despliegue |             |
 
 
