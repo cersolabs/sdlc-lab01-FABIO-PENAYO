@@ -40,7 +40,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
+| Análisis                      | En esta etapa los analistas llevan a cabo un relevamiento exhaustivo de la organizacion para identificar sus necesidades y los problemas que deben abordarse mediante un sistema informatico. el resultado es la elaboracion de un documento detallado que, siguiendo reglas y convenciones especificas, capture todos los requerimientos de los usuarios.  |
 | Diseño                        |             |
 | Codificación                  |             |
 | Prueba                        |             |
