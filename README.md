@@ -84,7 +84,7 @@ R:
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     | la caracteristica principal es que es un modelo secuencial.  se deben seguir una secuencia de pasos para pasar a la siguiente etapa, y en cada etapa de debe hacernun documento detallado antesvde pasar a la siguiente. |                        |
+| Cascada     | la caracteristica principal es que es un modelo secuencial.  se deben seguir una secuencia de pasos para pasar a la siguiente etapa, y en cada etapa de debe hacernun documento detallado antesvde pasar a la siguiente. | conviene usarlo para proyectos sencillos, si se tiene bajos presupuesto por que es el modelo menos costoso y el mas rapido.                        |
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
