@@ -85,7 +85,7 @@ Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
 | Cascada     | la caracteristica principal es que es un modelo secuencial.  se deben seguir una secuencia de pasos para pasar a la siguiente etapa, y en cada etapa de debe hacernun documento detallado antesvde pasar a la siguiente. | conviene usarlo para proyectos sencillos, si se tiene bajos presupuesto por que es el modelo menos costoso y el mas rapido.                        |
-| Incremental | en este modelo a diferencia del lineal o secuencial que se basa en desarrollar el software de forma completa. este modelo se encarga de entregar el software en partes, de este modo ya el usuario puede tener la primera version con algunas funcionalidades y una vez ya implementado se vuelve a realizar el modelo lineal secuencial para entregar un nuevo modelo mas completo.                          |                        |
+| Incremental | en este modelo a diferencia del lineal o secuencial que se basa en desarrollar el software de forma completa. este modelo se encarga de entregar el software en partes, de este modo ya el usuario puede tener la primera version con algunas funcionalidades y una vez ya implementado se vuelve a realizar el modelo lineal secuencial para entregar un nuevo modelo mas completo.                          | conviene usarlo cuando no se tiene presupuesto para todo el proyecto de una vez y se entregan algunas partes del software.|
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
 | RAD         |                          |                        |
