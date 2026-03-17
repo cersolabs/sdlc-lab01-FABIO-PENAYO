@@ -92,7 +92,9 @@ Complete la siguiente tabla.
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+   R:el modelo mas adecuado cuando hay muxhos riesgos en el proyecto es el modelo en espiral por que a las etapas habituales les añade un analisis riguroso por lo que su seguridad aumentan y las fallas disminuyen por que en cada etapa se hace un analisis.
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    R: el modelo que ayuda a comprender mejor los requerimientos del usuario es el  modelo prototipo por que crea un prototipo acotado d elo que sera el original y le permite al usuario interactuar con lo que sera el software.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
@@ -107,19 +109,23 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: yo recomendaria el modelo de desarrollo RAD. por que el modelo RAD. por que al tener poco tiempo el modelo RAD es el modelo que desarrollara el software de forma rapida, ademas al ser pocos los usuarios el software que se desarrollara sera lo suficientemente robusto para el gusto de los usuarios. y como los requerimientos edtan claros es el modelo que mas conviene utilizar en este caso.
 - Justifique su respuesta.
 
   R:
 - ¿Qué etapas principales tendría el desarrollo?
 
-  R:
+  R:las etapas principales que tendria este desarrollo serian:
+  1. el diseño. al tener ya los requerimientos claros podemos empezar a diseñar como sera el software
+  2. el siguiente paso es codificacion: en esta etapa los desarrolladores comienzan a crear el codigo.
+  3. la etapa 3 prueba: es la prueba del software para verificar wue todo funciona correcto y no hay errores de haberlos seran corregidos
+  4. y en la etapa 4 despliegue: el software ya esta disponible para el uso de los usuarios.
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
 1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+2. [x] El modelo incremental entrega el sistema en varias versiones.
+3. [x] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [x] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [x] El modelo en espiral incorpora el análisis de riesgos.
